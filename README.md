@@ -20,10 +20,10 @@ Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipyn
   - Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview. 
   
   - Store all the dictionaries in a Python list.
-
-  - Print the list in your notebook.
   
   <img width="660" alt="Screenshot 2023-05-03 at 2 19 38 PM" src="https://user-images.githubusercontent.com/121995835/236008489-353b4a59-8ca4-4aab-8b3c-71b26bde5183.png">
+  
+  - Print the list in your notebook.
 
 ### Part 2: Scrape and Analyze Mars Weather Data
 Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.ipynb. You will work in this code as you follow the steps below to scrape and analyze Mars weather data.
