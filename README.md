@@ -58,5 +58,4 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
         - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
         - Visually estimate the result by plotting the daily minimum temperature.
 
-6. Export the DataFrame to a CSV file.
 
