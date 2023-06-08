@@ -1,4 +1,4 @@
-# Data-Scraping-Collecting-Challenge
+# Data Scraping/Collecting Challenge
 
 ### What You're Creating
 This new assignment consists of two technical products. You will submit the following deliverables:
